@@ -6,7 +6,7 @@ from PIL import Image
 from PIL import ImageFilter
 from PIL.ImageFilter import SHARPEN
 import os
-
+#правка номер 1
 app = QApplication([])
 mw = QWidget()
 mw.setWindowTitle('Easy Editor')
